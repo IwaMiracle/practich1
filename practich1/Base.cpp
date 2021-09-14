@@ -11,7 +11,7 @@
 Boolean flag;
 FILE* filen;
 FILE* jojos;
-char* name;
+char* name
 boolean baza,flagadm=false;
 using namespace System;
 using namespace System::Windows::Forms;
